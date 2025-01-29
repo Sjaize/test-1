@@ -1,5 +1,7 @@
 # Read me 파일이란?
 
+![짤](https://mblogthumb-phinf.pstatic.net/MjAyMTA5MDNfMTgw/MDAxNjMwNjMzMjczODk3.AxXuH23jRry1-u_GG0BoIs34Rd1CXkMU5vfBq8iZeZkg.gs4K_PXSz7-Qk2yiN5rEIgFz4NxVI7f7nX0Uhu8zpsog.JPEG.nariworld26/IMG_7211.JPG?type=w800)
+
 이곳은 저장소에 대한 파일
 
 **마크다운 문법** 사용
